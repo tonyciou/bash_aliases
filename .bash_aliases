@@ -1,6 +1,7 @@
 alias ls='ls --color=auto'
 alias ll='ls -l'
 alias cls='clear'
+alias ptt='ssh bbsu@ptt.cc'
 
 #Git
 alias gp='git push'
